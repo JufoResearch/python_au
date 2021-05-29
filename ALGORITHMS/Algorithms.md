@@ -15,7 +15,7 @@
 + [House Robber](#house-robber)
 + [Merge K Sorted Lists](#merge-k-sorted-lists)
 + [K Closest Points to Origin](#k-closest-points-to-origin)
-
+ 
 
 ## Maximum Depth of N-ary Tree
 
